@@ -1,5 +1,4 @@
 ### Eae blz? Prazer, Rafael👋
-- 🔭 Em busca do primeiro trabalho como dev
 - 🌱Estudando Javascript e Typescript
 - 💬 Entre em contato comigo no meu e-mail: rafagm02@gmail.com
 <div align="center" >
