@@ -1,5 +1,5 @@
 ### Eae blz? Prazer, Rafael👋
-- 🌱Estudando Javascript e Typescript
+- 🌱Estudando Javascript e Typescript para aplicação para React
 - 💬 Entre em contato comigo no meu e-mail: rafagm02@gmail.com
 <div align="center" >
   <a href="https://github.com/rafaelzagui">
